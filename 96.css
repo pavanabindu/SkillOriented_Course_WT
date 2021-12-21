@@ -1,0 +1,10 @@
+body{background-image:url(flower.jpg);
+         background-repeat:no-repeat;
+          background-position:right top;
+          background-attachment:fixed;}
+p{border-style:dotted;
+   border-botoom-style:solid;}
+body{width:300px;
+         border:15px;
+        padding:50px;
+        margin:20px;}
